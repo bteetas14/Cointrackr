@@ -1,6 +1,6 @@
-# Income Expense Tracker Using Django
+# Finance Tracker Using Django
 
-#### Website Deployed on [Heroku](https://expenseincometrackerdjango.herokuapp.com/)
+#### Website Deployed on [Heroku](https://cointrackr.herokuapp.com/)
 
 ### Table of Contents
 - [Main Features](#main-features)
